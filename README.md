@@ -6,7 +6,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can code with both coffee and tea equally well.
 
-<!---
-abhisheku-official/abhisheku-official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+>
